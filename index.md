@@ -3,7 +3,7 @@ hey world
 ## me
 
 * Steven Collison
-* frontend programmer @ AWS EC2 Networking
+* engineer of frontends @ AWS EC2 Networking
 * [steven@raycoll.com](steven@raycoll.com)
 * [https://github.com/raycoll](https://github.com/raycoll)
 
@@ -17,6 +17,7 @@ hey world
 * [TLS listener support for AWS NLB](https://aws.amazon.com/blogs/aws/new-tls-termination-for-network-load-balancers)
 * [CVE-2019-1559](https://www.openssl.org/news/secadv/20190226.txt)
 * [AWS NLB multiple certificate support(SNI)](https://aws.amazon.com/about-aws/whats-new/2019/09/elastic-load-balancing-network-load-balancers-now-supports-multiple-tls-certificates-using-server-name-indication)
+* [Post Quantum Cryptograpy(PQC) in TLS for AWS KMS](https://aws.amazon.com/blogs/security/post-quantum-tls-now-supported-in-aws-kms/)
 * [Mutual TLS authentication support in AWS API Gateway](https://aws.amazon.com/blogs/compute/introducing-mutual-tls-authentication-for-amazon-api-gateway)
 * [Custom Domains support in AWS IoT](https://aws.amazon.com/about-aws/whats-new/2021/03/configurable-endpoints-with-custom-domains-now-generally-available)
 * [AWS Security Bulletin AWS-2021-002](https://aws.amazon.com/security/security-bulletins/AWS-2021-002)
@@ -26,5 +27,7 @@ hey world
 * [TLS1.3 support in NLB](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-network-load-balancer-supports-tls-1-3)
 * [AWS Security Bulletin AWS-2022-003](https://aws.amazon.com/security/security-bulletins/AWS-2022-003)
 * [All AWS endpoints to use a minimum of TLS1.2](https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/)
+* [Hybrid PQC with Kyber for some AWS services](https://aws.amazon.com/blogs/security/how-to-tune-tls-for-hybrid-post-quantum-cryptography-with-kyber/)
+* [Distributed TLS session ticket resumption with keys derived from multiple sources](https://www.pat2pdf.org/patents/pat11405369.pdf)
 
 ## posts
