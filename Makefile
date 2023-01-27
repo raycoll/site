@@ -19,7 +19,7 @@ all : $(EXPORTED_DOCS)
 clean:
 	- rm $(EXPORTED_DOCS)
 
-s3upload: all
+update_page: all
 	# Store the current object as a new version object.
 	aws s3 cp $(OBJECT_NAME)  s3://raycoll.com-website/$(NEXT_VERSION_OBJECT_NAME)
 	# Move the CF distribution to point at it.
