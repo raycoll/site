@@ -29,5 +29,6 @@ hey world
 * [All AWS endpoints to use a minimum of TLS1.2](https://aws.amazon.com/blogs/security/tls-1-2-required-for-aws-endpoints/)
 * [Hybrid PQC with Kyber for some AWS services](https://aws.amazon.com/blogs/security/how-to-tune-tls-for-hybrid-post-quantum-cryptography-with-kyber/)
 * [Distributed TLS session ticket resumption with keys derived from multiple sources](https://www.pat2pdf.org/patents/pat11405369.pdf)
+* [JDK Session Ticket Memory Handling Improvements](https://bugs.openjdk.org/browse/JDK-8298381)
 
 ## posts
