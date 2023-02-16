@@ -4,7 +4,7 @@ hey world
 
 * Steven Collison
 * engineer of frontends @ AWS EC2 Networking
-* [steven@raycoll.com](steven@raycoll.com)
+* [steven@raycoll.com](mailto:steven@raycoll.com)
 * [https://github.com/raycoll](https://github.com/raycoll)
 
 ## some public work
