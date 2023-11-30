@@ -27,3 +27,6 @@ update_page: all
 	AWS_PAGER="" aws cloudfront update-distribution --id $(CF_DISTRIBUTION_ID) --default-root-object $(NEXT_VERSION_OBJECT_NAME)
 	# Increment the version file
 	echo "$(NEXT_VERSION)" > $(OBJECT_VERSION_FILE)
+
+server: $(EXPORTED_DOCS)
+	python3 -m http.server
