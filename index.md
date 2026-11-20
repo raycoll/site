@@ -18,6 +18,7 @@ hey world
 
 ## publications
 
+* [2026-11-19] [AWS Network Load Balancer now supports mutual TLS authentication](https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/)
 * [2026-08-04] [AWS Application and Network Load Balancers now support RFC9151 TLS security policies](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-application-network/)
 * [2026-07-07] [Secure Session Resumption Protocol Selection Based on Network Condition Analysis](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12676880)
 * [2025-11-21] [AWS Application and Network Load Balancers now support Post-Quantum key exchange for TLS](https://aws.amazon.com/about-aws/whats-new/2025/11/network-load-balancers-post-quantum-key-exchange-tls/)
