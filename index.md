@@ -18,7 +18,11 @@ hey world
 
 ## publications
 
+* [2026-11-20] [AWS Application Load Balancer now supports CNSA 2.0 interoperable TLS policies](https://aws.amazon.com/about-aws/whats-new/2026/11/alb-cnsa-2-0-tls-policies/)
+* [2026-11-19] [AWS Application Load Balancer adds new header for client TLS connection key exchange group](https://aws.amazon.com/about-aws/whats-new/2026/11/alb-adds-tls-key-exchange-header/)
 * [2026-11-19] [AWS Network Load Balancer now supports mutual TLS authentication](https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/)
+* [2026-11-17] [Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-aws-cloudtrail/)
+* [2026-11-17] [Amazon S3 adds post-quantum TLS key exchange support to additional S3 endpoints](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-key-exchange-support/)
 * [2026-08-04] [AWS Application and Network Load Balancers now support RFC9151 TLS security policies](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-application-network/)
 * [2026-07-07] [Secure Session Resumption Protocol Selection Based on Network Condition Analysis](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12676880)
 * [2025-11-21] [AWS Application and Network Load Balancers now support Post-Quantum key exchange for TLS](https://aws.amazon.com/about-aws/whats-new/2025/11/network-load-balancers-post-quantum-key-exchange-tls/)
